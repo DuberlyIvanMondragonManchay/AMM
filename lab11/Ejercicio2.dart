@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Cupertino and Material Widgets',
+      title: 'Duberly Ivan Mondragón Manchay',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cupertino and Material Widgets'),
+        title: Text('Duberly Ivan Mondragón Manchay'),
       ),
       body: Center(
         child: Column(
